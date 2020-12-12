@@ -89,6 +89,12 @@
 
         </plugins>
     </build>
+    
+    <dependencies>
+    	<!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
+		
+    	
+    </dependencies>
 
     <profiles>
         <!-- database setup -->
